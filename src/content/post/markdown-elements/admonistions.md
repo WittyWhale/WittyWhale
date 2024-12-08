@@ -13,7 +13,7 @@ Admonitions (also known as “asides”) are useful for providing supportive and
 
 To use admonitions in Astro Cactus, wrap your Markdown content in a pair of triple colons `:::`. The first pair should also include the type of admonition you want to use.
 
-For example, with the following Markdown:
+**For example, with the following Markdown:**
 
 ```md
 :::note
@@ -36,6 +36,8 @@ The following admonitions are currently supported:
 - `important`
 - `warning`
 - `caution`
+
+## Title
 
 ### Note
 
