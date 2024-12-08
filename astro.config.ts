@@ -22,7 +22,7 @@ import rehypeUnwrapImages from "rehype-unwrap-images";
 // https://astro.build/config
 export default defineConfig({
 	// Modify base to support repo name
-	base: "/blog",
+	// base: "/blog",
 	image: {
 		domains: ["webmention.io"],
 	},
